@@ -1,0 +1,26 @@
+{
+  "name": "sheets-registry-transformer",
+  "version": "1.0.0",
+  "description": "stream transformer for material ui streaming ssr",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthoffner/sheets-registry-transformer.git"
+  },
+  "keywords": [
+    "material-ui",
+    "renderToNodeStream",
+    "react",
+    "react-dom",
+    "ssr"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthoffner/sheets-registry-transformer/issues"
+  },
+  "homepage": "https://github.com/matthoffner/sheets-registry-transformer#readme"
+}
